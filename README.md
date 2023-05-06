@@ -2,7 +2,23 @@
 
 ## 2022
 
-TODO
+| **Talk**                                                                                       | **Presenter(s)** | **Duration** |
+| :--------------------------------------------------------------------------------------------- | :--------------- | :----------: |
+| [C++ API Design](https://www.youtube.com/watch?v=zL-vn_pGGgY)                                  | Jason Turner     |   01:00:42   |
+| [Templates in C++](https://www.youtube.com/watch?v=HqsEHG0QJXU)                                | Nicolai Josuttis |   01:01:50   |
+| [Debugging in C++](https://www.youtube.com/watch?v=YzIBwqWC6EM)                                | Mike Shah        |   01:01:19   |
+| [C++ Smart Pointers](https://www.youtube.com/watch?v=YokY6HzLkXs)                              | David Olsen      |   00:49:07   |
+| [Cpp Value Semantics](https://www.youtube.com/watch?v=G9MxNwUoSt0)                             | Klaus Iglberger  |   00:48:28   |
+| [C++ Move Semantics](https://www.youtube.com/watch?v=knEaMpytRMA)                              | Andreas Fertig   |   01:02:06   |
+| [RAII in C++](https://www.youtube.com/watch?v=Rfu06XAhx90)                                     | Andre Kostur     |   00:44:17   |
+| [The C++ Core Guidelines](https://www.youtube.com/watch?v=UONLB7wBVSc)                         | Rainer Grimm     |   01:02:34   |
+| [Object-Oriented Programming in C++](https://www.youtube.com/watch?v=_go74QpFPAw)              | Amir Kirsh       |   01:00:19   |
+| [C++ Testing](https://www.youtube.com/watch?v=SAM4rWaIvUQ)                                     | Amir Kirsh       |   01:02:04   |
+| [Master C++ Value Categories With Standard Tools](https://www.youtube.com/watch?v=tH0Z2OvHAd8) | Inbal Levi       |   00:51:29   |
+| [Declarations in C++](https://www.youtube.com/watch?v=IK4GhjmSC6w)                             | Ben Saks         |   01:03:28   |
+| [Standard Library Containers in Cpp](https://www.youtube.com/watch?v=ZMUKa2kWtTk)              | Rainer Grimm     |   01:04:19   |
+| [Name Lookup and Overload Resolution in C++](https://www.youtube.com/watch?v=iDX2d7poJnI)      | Mateusz Pusz     |   01:02:28   |
+| [**Playlist**](https://www.youtube.com/playlist?list=PLAEL-MQ5e5bIOt22WwgTXKtuN1V6jARLy)       |                  | **13:34:30** |
 
 ## 2021
 
@@ -29,7 +45,6 @@ TODO
 | [Smart Pointers and RAII](https://www.youtube.com/watch?v=07rJOzFRs6M)                                          | Inbal Levi                        |   00:50:16   |
 | [Algorithmic Complexity](https://www.youtube.com/watch?v=AY2FqpDCBGs)                                           | Amir Kirsh, Adam Segoli Schubert  |   00:55:09   |
 | [**Playlist**](https://www.youtube.com/playlist?list=PLHTh1InhhwT4TJaHBVWzvBOYhp27UO7mI)                        |                                   | **20:15:56** |
-
 
 ## 2020
 
@@ -58,7 +73,7 @@ TODO
 | [Object-Oriented Programming](https://www.youtube.com/watch?v=32tDTD9UJCE)                | Jon Kalb         |   00:59:59   |
 | [Function and Class Templates](https://www.youtube.com/watch?v=LMP_sxOaz6g)               | Dan Saks         |   01:03:12   |
 | [RAII and the Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ)                  | Arthur O'Dwyer   |   01:02:18   |
-| [Type Erasure ](https://www.youtube.com/watch?v=tbUCHifyT24)                              | Arthur O'Dwyer   |   00:49:16   |
+| [Type Erasure](https://www.youtube.com/watch?v=tbUCHifyT24)                               | Arthur O'Dwyer   |   00:49:16   |
 | [Everyday Efficiency: In-Place Construction](https://www.youtube.com/watch?v=oTMSgI1XjF8) | Ben Deane        |   01:02:17   |
 | [Exception Handling and Exception Safety](https://www.youtube.com/watch?v=W6jZKibuJpU)    | Ben Saks         |   01:01:30   |
 | [Lambdas from Scratch](https://www.youtube.com/watch?v=3jCOwajNch0)                       | Arthur O'Dwyer   |   00:52:09   |
