@@ -1,11 +1,5 @@
 # CppCon - Back to Basics
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 ## 2022
 
 | **Talk**                                                                                       | **Presenter(s)** | **Duration** |
