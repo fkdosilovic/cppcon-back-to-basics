@@ -1,9 +1,15 @@
 # CppCon - Back to Basics
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 ## 2022
 
 | **Talk**                                                                                       | **Presenter(s)** | **Duration** |
-| :--------------------------------------------------------------------------------------------- | :--------------- | :----------: |
+|:-----------------------------------------------------------------------------------------------|:-----------------|:------------:|
 | [C++ API Design](https://www.youtube.com/watch?v=zL-vn_pGGgY)                                  | Jason Turner     |   01:00:42   |
 | [Templates in C++](https://www.youtube.com/watch?v=HqsEHG0QJXU)                                | Nicolai Josuttis |   01:01:50   |
 | [Debugging in C++](https://www.youtube.com/watch?v=YzIBwqWC6EM)                                | Mike Shah        |   01:01:19   |
@@ -23,7 +29,7 @@
 ## 2021
 
 | **Talk**                                                                                                        | **Presenter(s)**                  | **Duration** |
-| :-------------------------------------------------------------------------------------------------------------- | :-------------------------------- | :----------: |
+|:----------------------------------------------------------------------------------------------------------------|:----------------------------------|:------------:|
 | [Move Semantics](https://www.youtube.com/watch?v=Bt3zcJZIalk)                                                   | Nicolai Josuttis                  |   01:03:58   |
 | [Overload Resolution](https://www.youtube.com/watch?v=b5Kbzgx1w9A)                                              | Ansel Sermersheim, Barbara Geller |   01:04:51   |
 | [const and constexpr](https://www.youtube.com/watch?v=tA6LbPyYdco)                                              | Rainer Grimm                      |   01:01:35   |
@@ -49,7 +55,7 @@
 ## 2020
 
 | **Talk**                                                                                 | **Presenter(s)**                  | **Duration** |
-| :--------------------------------------------------------------------------------------- | :-------------------------------- | :----------: |
+|:-----------------------------------------------------------------------------------------|:----------------------------------|:------------:|
 | [The Abstract Machine](https://www.youtube.com/watch?v=ZAji7PkXaKY)                      | Bob Steagall                      |   00:57:07   |
 | [The Structure of a Program](https://www.youtube.com/watch?v=3KoXeegncrs)                | Bob Steagall                      |   01:01:37   |
 | [Class Layout](https://www.youtube.com/watch?v=SShSV_iV1Ko)                              | Stephen Dewhurst                  |   01:00:27   |
@@ -69,7 +75,7 @@
 ## 2019
 
 | **Talk**                                                                                  | **Presenter(s)** | **Duration** |
-| :---------------------------------------------------------------------------------------- | :--------------- | :----------: |
+|:------------------------------------------------------------------------------------------|:-----------------|:------------:|
 | [Object-Oriented Programming](https://www.youtube.com/watch?v=32tDTD9UJCE)                | Jon Kalb         |   00:59:59   |
 | [Function and Class Templates](https://www.youtube.com/watch?v=LMP_sxOaz6g)               | Dan Saks         |   01:03:12   |
 | [RAII and the Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ)                  | Arthur O'Dwyer   |   01:02:18   |
